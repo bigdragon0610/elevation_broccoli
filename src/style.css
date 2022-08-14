@@ -1,12 +1,12 @@
-body{
+body {
   text-align: center;
 }
 
-img {
+#broccoli_btn > img {
   width: 140px;
   height: 180px;
 }
 
-span {
+#broccoli {
   color: blueviolet;
 }
